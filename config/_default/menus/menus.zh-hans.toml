@@ -1,0 +1,20 @@
+[[main]]
+  name = "主页"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "博客"
+  pageRef = "/blog/"
+  weight = 10
+
+[[main]]
+  name = "标签"
+  pageRef = "/tags"
+  weight = 20
+
+[[social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com/"
+  weight = 20
