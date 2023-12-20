@@ -63,6 +63,9 @@ jobs:
         run: "npm install && npm run mod:update"
 
       - name: Build with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
         run: "npm run build"
 
       - name: Upload artifact

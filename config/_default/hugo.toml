@@ -1,10 +1,10 @@
-title = "Hinode"
-copyright = "Copyright © 2023 Mark Dumay."
+title = "MeawFun"
+copyright = "Copyright © 2023 uvham521."
 paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://www.meaw.fun/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -17,8 +17,8 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
 
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "zh-hans"
+defaultContentLanguage = "zh-hans"
 defaultContentLanguageInSubdir = false
 
 [outputFormats.REDIR]
